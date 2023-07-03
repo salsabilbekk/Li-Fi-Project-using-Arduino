@@ -1,0 +1,103 @@
+<html>
+<head>
+	<title>SAMASTY CAKES</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
+</head>
+<body>
+	<div class="header">
+		<nav>
+		<ul>
+ 			<li><a href="#Home">Home</a></li>
+ 			<li><a href="#About">About</a></li>
+ 			<li><a href="#Services">Services</a></li>
+ 			<li><a href="#Gallery">Gallery</a></li>
+ 			<li><a href="#Contact">Contact</a></li>
+ 			
+			</ul>
+		</nav>
+	</div>
+	<section class="Home" id="Home">
+
+
+	
+		<div class="box2">
+
+     	<h1 style="color:brown;text-align:center ;"><br><br><br><br>SAMASTY CAKES</h1>
+
+
+	
+	<p class="p1" > Design your occasion cake </p>
+	<p class="p2">Life is beuatiful with samasty</p>
+
+	
+
+
+	</section>
+
+	<section class="About" id="About">
+		<div class="about-us">
+			<div class="box1">
+				<h2 style="color: brown;text-align: center;"><br>ABOUT US</h2>
+				<p class="p3"> Samasty Cake is an online market specializing in baking<br> cakes for weddings, occasions, and birthdays. <br>They also offer a variety of breads to cater<br> to different tastes. With their high-quality and delicious <br>creations, Samasty Cake brings sweetness to every <br>special event.</p>
+			</div>
+		</div>
+
+	</section>
+
+
+	<section class="Services" id="Services">
+		
+
+	</section>
+
+
+	<section class="Gallery" id="Gallery">
+		
+		
+		<div id="gallery">
+			<h3 style="color: brown;text-align:center ;"> INSPIRATION GALLERY</h3>
+
+			<div class="pictures">
+						
+    <img src="a1.jpg" alt="pic1" width="400" height="500">
+    <img src="a2.png" alt="pic2" width="400" height="500">
+
+			</div>
+
+			<div class="pictures">
+
+    <img src="a3.jpg" alt="pic3" width="400" height="500">
+    <img src="a4.jpg" alt="pic4" width="400" height= "500">
+			</div>
+			<div class="pictures">
+    <img src="a5.jpg" alt="pic5" width="400" height= "500">
+    <img src="a6.jpg" alt="pic6" width="400" height= "500">
+    			</div>
+			<div class="pictures">
+    <img src="a7.png" alt="pic7" width="400" height= "500">
+    <img src="a8.jpg" alt="pic8" width="400" height= "500">
+    			</div>
+    		</div>
+	</section>
+
+
+	<section class="Contact" id="Contact">
+		
+<a href="https://www.instagram.com/samastycakes/" class="btn">SAMASTY'S PAGE</a>
+	
+<br><br><br>
+<div class="contactus">
+			<i class="fa-solid fa-bars"></i>
+			<i class="fa-brands fa-instagram"></i>
+			<i class="fa-brands fa-facebook"></i>
+			<i class="fa-brands fa-twitter"></i>
+			<i class="fa-brands fa-youtube"></i>
+			<i class="fa-solid fa-magnifying-glass"></i>
+	</div>
+
+	</section>
+	</body>
+	</html>>
